@@ -1,0 +1,14 @@
+{
+  "name": "Spark AI Social",
+  "description": "The world's most advanced luxury AI-powered social ecosystem. Featuring Gemini-powered content generation, real-time neural interactions, and sovereign wealth management for the elite creators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "short_name": "Spark",
+  "theme_color": "#010101",
+  "background_color": "#010101",
+  "display": "standalone",
+  "orientation": "portrait"
+}
