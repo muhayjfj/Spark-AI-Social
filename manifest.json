@@ -1,0 +1,24 @@
+
+{
+  "short_name": "SparkAI",
+  "name": "Spark AI Social Ecosystem",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8644/8644484.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8644/8644484.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#010101",
+  "background_color": "#010101",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "The world's first luxury AI-powered social network for creators."
+}

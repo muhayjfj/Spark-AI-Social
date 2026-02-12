@@ -1,17 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>View your app in AI Studio: https://ai.studio/apps/drive/1QXTLztwRorJUsdBev_-XMLPVG_Lo5tEH
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+# 💎 Spark AI Social Ecosystem
 
-## Run Locally
+![License](https://img.shields.io/badge/Status-Production--Ready-gold)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20PWA%20%7C%20Android-blue)
 
-**Prerequisites:**  Node.js
+Spark AI هو النظام الاجتماعي الأكثر تقدماً في العالم، مصمم لنخبة المبدعين. يعتمد بالكامل على تقنيات الذكاء الاصطناعي (Gemini 2.5 & 3) لتوفير تجربة مستخدم سيادية.
 
+## 🚀 المميزات الرئيسية
+- **Magic Prompt Engine**: تحويل الأفكار البسيطة إلى محتوى احترافي.
+- **Sovereign Wealth**: نظام محفظة متكامل لإدارة أرباح الكريستال.
+- **Elite Communication**: مكالمات صوتية ومرئية مشفرة بتقنية الـ Neural Shield.
+- **Studio Pro**: أدوات توليد صور وفيديو بدقة 4K.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 التثبيت والتشغيل (الجانب التقني)
+المشروع مبني باستخدام `React` و `@google/genai`.
+
+1. قم برفع الملفات إلى مستودع (Repository) جديد في GitHub.
+2. استخدم **GitHub Pages** أو **Vercel** للاستضافة المجانية.
+3. تأكد من ضبط متغير البيئة `API_KEY` في إعدادات المنصة المختارة لضمان الأمان.
+
+## 📱 تحويله إلى تطبيق APK
+للحصول على نسخة APK احترافية وآمنة:
+1. استخدم **[PWA2APK](https://www.pwa2apk.com/)** أو **[LlamaPack](https://github.com/GoogleChromeLabs/bubblewrap)**.
+2. قم بتزويد الأداة برابط الاستضافة (Vercel/GitHub Pages).
+3. ستقوم الأداة بإنشاء ملف APK جاهز للرفع على Google Play Store.
+
+## 🔐 الأمان (Security)
+تم تصميم التطبيق بحيث لا يتم تسريب مفتاح الـ API أبداً. يتم التعامل معه من خلال `process.env.API_KEY` فقط، مما يجعله آمناً تماماً للنشر العام.
+
+---
+© 2025 Spark AI Social. All Rights Reserved.
